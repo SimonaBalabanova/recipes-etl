@@ -1,0 +1,1 @@
+I used pandas library to read the data, then I observed the given dataset. After getting familiar with the dataset I got the ingredients column from which I filtered the recipes containing chilies after which I put them in a dataframe that I later converted in a csv file. 
